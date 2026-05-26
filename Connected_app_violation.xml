@@ -1,5 +1,4 @@
 <ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
     <label>Test Connected App</label>
     <contactEmail>admin@test.com</contactEmail>
-    <description>Internal OAuth integration</description>
 </ConnectedApp>
